@@ -56,7 +56,7 @@ export default function Layout({ children }) {
               <Shield size={20} className="text-white" />
             </div>
             <div>
-              <span className="font-display font-bold text-white text-sm tracking-wide">DegreeGuard</span>
+              <span className="font-display font-bold text-white text-sm tracking-wide">Authenticity Validator for Academia</span>
               <span className="block text-[10px] text-slate-500 tracking-widest uppercase">Document Authenticator</span>
             </div>
           </Link>

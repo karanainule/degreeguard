@@ -11,7 +11,7 @@ export default function HomePage() {
             <div className="w-9 h-9 bg-brand-600 rounded-lg flex items-center justify-center">
               <Shield size={20} className="text-white" />
             </div>
-            <span className="font-display font-bold text-white">DegreeGuard</span>
+            <span className="font-display font-bold text-white">Authenticity Validator for Academia</span>
           </div>
           <div className="flex items-center gap-3">
             <Link to="/login" className="btn-ghost text-sm">Sign In</Link>
@@ -118,7 +118,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Shield size={18} className="text-brand-500" />
-            <span className="text-sm text-slate-500">DegreeGuard — Fake Degree Detection System</span>
+            <span className="text-sm text-slate-500">Authenticity Validator for Academia — Fake Degree Detection System</span>
           </div>
           <span className="text-xs text-slate-600">© 2025 Document Authenticator</span>
         </div>

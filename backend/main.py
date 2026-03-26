@@ -1,5 +1,5 @@
 """
-DegreeGuard — Fake Degree Detection System
+Authenticity Validator for Academia — Fake Degree Detection System
 FastAPI Backend Server
 
 Architecture:
@@ -18,7 +18,7 @@ from app.routers import auth, institutions, certificates, verification, dashboar
 
 # Create FastAPI app
 app = FastAPI(
-    title="DegreeGuard API",
+    title="Authenticity Validator for Academia API",
     description="Fake Degree Detection System — Document Authenticator",
     version="1.0.0",
     docs_url="/api/docs",
@@ -54,7 +54,7 @@ def on_startup():
     init_db()
     seed_database()
     print(f"""
-  DegreeGuard -- Fake Degree Detection API
+  Authenticity Validator for Academia -- Fake Degree Detection API
   -----------------------------------------
   Running on http://{settings.HOST}:{settings.PORT}
   Swagger Docs: http://localhost:{settings.PORT}/api/docs

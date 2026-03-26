@@ -36,7 +36,7 @@ export default function LoginPage() {
             <Shield size={32} className="text-white" />
           </div>
           <h1 className="font-display text-4xl font-bold text-white mb-4 leading-tight">
-            DegreeGuard<br />
+            Authenticity Validator<br />
             <span className="text-brand-400">Document Authenticator</span>
           </h1>
           <p className="text-slate-400 text-lg leading-relaxed mb-8">
@@ -60,7 +60,7 @@ export default function LoginPage() {
             <div className="w-10 h-10 bg-brand-600 rounded-xl flex items-center justify-center">
               <Shield size={22} className="text-white" />
             </div>
-            <span className="font-display font-bold text-white text-lg">DegreeGuard</span>
+            <span className="font-display font-bold text-white text-lg">Authenticity Validator for Academia</span>
           </div>
 
           <h2 className="font-display text-2xl font-bold text-white mb-1">Sign in to your account</h2>
