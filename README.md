@@ -4,6 +4,18 @@
 JSPM's Jayawantrao Sawant College of Engineering, Hadapsar
 Savitribai Phule Pune University (SPPU)
 
+## 🏆 Smart India Hackathon 2025
+
+This project is developed as a solution for the **Smart India Hackathon 2025**.
+
+- **Problem Statement ID:** 25029  
+- **Title:** Authenticity Validator for Academia  
+- **Organization:** Government of Jharkhand  
+
+### 📸 Official Problem Statement
+ <img width="1502" height="962" alt="image" src="https://github.com/user-attachments/assets/d05b300d-0a04-4153-a89b-f33aaf85a1f5" />
+
+
 ---
 
 ## 📐 Architecture
